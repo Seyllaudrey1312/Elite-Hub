@@ -125,7 +125,7 @@ elite-hub-website/
 
 4. **Configure environment variables:**
    Edit `.env` and set:
-   - `MONGODB_URI` - Your MongoDB connection string
+   - `MONGODB_URI` - mongodb+srv://ascendlife38_db_user:CsevQagYwpZo3cRs@cluster0.jandejn.mongodb.net/?appName=Cluster0
    - `JWT_SECRET` - Your secret key
    - `PORT` - Server port (default: 5000)
 
@@ -294,4 +294,5 @@ Last Updated: February 2026
 ---
 
 **Elite Hub - Learn. Practice. Excel.** 🎓
+
 
