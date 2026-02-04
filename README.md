@@ -280,7 +280,7 @@ The frontend is a static website that can be served directly:
 
 ## Support
 
-For technical support, contact: tutor@elitehub.com
+For technical support, contact: seyllaudrey6@gmail.com
 
 ## License
 
@@ -294,3 +294,4 @@ Last Updated: February 2026
 ---
 
 **Elite Hub - Learn. Practice. Excel.** 🎓
+
